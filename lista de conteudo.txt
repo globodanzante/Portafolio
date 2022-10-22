@@ -1,0 +1,19 @@
+Mi portafolio
+
+*  primeramente quero-lhe colocar no cabeçalho uma imagem com meu nome e a lista de navegação
+*  Logo no body:
+      * a minha historia,
+      * meus estudos,
+      * trabalhos, 
+      * contatos;
+   cada una delas com imagenes e link para poder se conetar comigo quando quiser
+
+*  Fazer um rascunho de como imagina a página
+
+	imagens PNG feitas en fotoshop uo PPT
+
+*  Criar a marcação com o conteúdo
+
+	Estudos e objetivos
+ 	Listagem de trabalhos (imagens e links se possível)
+ 	Informações de contato
